@@ -1,12 +1,19 @@
 # codewars
 
-<h1>Collection of my completed Codewars kata; completed using JavaScript and tested with Mocha test framework and Chai assertions.</h1>
+<h1>Collection of my completed JavaScript Codewars Kata</h1>
 
-<a href="https://www.codewars.com/users/codingmd" target="_blank"><img rel="preload"
-                src="https://www.codewars.com/users/codingmd/badges/large" id="codewars" /></a>
+<h2>Katas in <i>codewars</i> repo completed in JavaScript and tested using Mocha test framework with Chai assertions.</h2>
 
-References:
-Codewars - https://www.codewars.com/
-Codewars JS Testing - https://docs.codewars.com/languages/javascript/
-Chai - https://www.chaijs.com/
-Mocha - https://mochajs.org/
+<h3>Additional katas completed in Codewars site using Java and Ruby.<br>Click Profile Badge below to view:</h3><br>
+
+<div><a href="https://www.codewars.com/users/codingmd" target="_blank"><img rel="preload" src="https://www.codewars.com/users/codingmd/badges/large" id="codewars" /></a></div><br>
+
+<div><p>References:
+<ul>
+    <li>Codewars - https://www.codewars.com/</li>
+    <li>Codewars JS Testing - https://docs.codewars.com/languages/javascript/</li>
+    <li>Chai - https://www.chaijs.com/</li>
+    <li>Mocha - https://mochajs.org/</li>
+<ul>
+</p>
+</div>
